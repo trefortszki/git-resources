@@ -26,6 +26,8 @@ https://git-scm.com/doc/ext
 
 ## training
 
+https://gitimmersion.com/
+
 https://learngitbranching.js.org/
 
 https://www.gitmastery.me/playground
